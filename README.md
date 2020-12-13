@@ -18,3 +18,10 @@
 ![](./readme-support/Slide18.JPG)
 ![](./readme-support/Slide19.JPG)
 ![](./readme-support/Slide20.JPG)
+<br><br>
+## YouTube Video Link
+```
+https://youtu.be/QHrCXib4ABI
+```
+Please watch in HD because the text will be blurry otherwise.
+[![Watch the video](https://img.youtube.com/vi/QHrCXib4ABI/maxresdefault.jpg)](https://youtu.be/QHrCXib4ABI)
